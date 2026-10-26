@@ -192,6 +192,7 @@ export const en = {
   project_emergency_musician_desc: 'Mobile platform connecting musicians with churches, event organizers, and clients for seamless booking, gig management, and Square payments.',
   project_mevlo_desc: 'Real estate platform for discovering and managing off-market property listings with Branch.io deep linking, Stripe payments, and RevenueCat subscriptions.',
   project_we_are_detailing_desc: 'Mobile platform for professional car detailing education, training, and e-commerce with Superwall paywalls and Stripe payments.',
+  project_vyra_desc: 'AI-powered photo and art generation mobile application transforming user portraits into high-fidelity artistic renders using neural AI APIs and Superwall monetization.',
 
   // Projects filters & modal
   projects_badge: 'Selected Work',

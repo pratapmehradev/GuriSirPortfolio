@@ -192,6 +192,7 @@ export const ja = {
   project_emergency_musician_desc: '音楽家と教会・イベント主催者をつなぐマッチングおよびSquare決済統合プラットフォーム。',
   project_mevlo_desc: '非公開不動産物件の探索・管理プラットフォーム。Branch.io、Stripe、RevenueCatを統合。',
   project_we_are_detailing_desc: 'プロ向け自動車ディテーリング講習とECを提供するモバイルアプリ。SuperwallとStripeを統合。',
+  project_vyra_desc: 'ニューラルAIとSuperwall課金を活用し、ポートレートを高精細なアート作品に変換するAI画像生成モバイルアプリ。',
 
   // Projects filters & modal
   projects_badge: 'Selected Work',

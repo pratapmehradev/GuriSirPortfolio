@@ -22,7 +22,7 @@
       <stop offset="100%" stop-color="#0284c7" />
     </linearGradient>
 
-    <!-- Chrome & Radiant White Gradient for PM -->
+    <!-- Chrome & Radiant White Gradient for GS -->
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ffffff" />
       <stop offset="50%" stop-color="#f0f9ff" />
@@ -36,7 +36,7 @@
       <stop offset="100%" stop-color="#000000" stop-opacity="0" />
     </radialGradient>
 
-    <!-- Drop Shadow Filter for Large PM Text -->
+    <!-- Drop Shadow Filter for Large GS Text -->
     <filter id="textShadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#38bdf8" flood-opacity="0.8" />
     </filter>
@@ -58,22 +58,22 @@
     <ellipse rx="200" ry="80" transform="rotate(120)" />
   </g>
 
-  <!-- Large Central Obsidian Glass Shield for PM -->
+  <!-- Large Central Obsidian Glass Shield for GS -->
   <circle cx="256" cy="256" r="134" fill="#080c16" stroke="url(#cyanGlow)" stroke-width="9" />
   <circle cx="256" cy="256" r="122" fill="#0c1322" fill-opacity="0.9" />
 
-  <!-- Extra-Bold, Extra-Large & Dominant "PM" Monogram -->
+  <!-- Extra-Bold, Extra-Large & Dominant "GS" Monogram -->
   <text
     x="256"
-    y="312"
+    y="308"
     text-anchor="middle"
     font-family="-apple-system, BlinkMacSystemFont, 'Plus Jakarta Sans', 'Inter', 'Segoe UI', sans-serif"
-    font-size="155"
+    font-size="142"
     font-weight="900"
-    letter-spacing="-5"
+    letter-spacing="-3"
     fill="url(#textGrad)"
     filter="url(#textShadow)"
-  >PM</text>
+  >GS</text>
 
   <!-- Glowing Accent Micro-Particle -->
   <circle cx="410" cy="102" r="14" fill="#38bdf8" />

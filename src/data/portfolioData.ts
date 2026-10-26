@@ -371,6 +371,11 @@ export const PROJECTS: Project[] = [
     role: "Senior React Native & iOS Developer",
     iconName: "Music",
     gradient: "linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%)",
+    logoUrl: "/apps/emergency_musician.png",
+    appStoreUrl:
+      "https://apps.apple.com/us/app/emergencymusician/id6504610906",
+    playStoreUrl:
+      "https://play.google.com/store/apps/details?id=com.app.emergencymusiciannew&pcampaignid=web_share",
     previewHighlight: {
       tag: "Musician Gig Dispatch",
       metric: "On-Demand Musician Marketplace",
@@ -436,6 +441,47 @@ export const PROJECTS: Project[] = [
       "Stripe Payments & RevenueCat Subscriptions: In-app earnest payments and premium agent tier subscriptions.",
       "Push Notifications & Cloud Messaging: Real-time bid and inquiry alerts via Firebase Cloud Messaging.",
       "Sentry & Crashlytics Monitoring: Real-time crash diagnostics, proactive error resolution, and production updates on App Store & Google Play.",
+    ],
+  },
+  {
+    id: "vyra",
+    name: "Vyra: AI Photo & Art Generator",
+    category: "ai",
+    platforms: ["iOS"],
+    techStack: [
+      "React Native",
+      "Swift",
+      "OpenAI",
+      "Superwall",
+      "Firebase",
+      "Amplitude",
+      "FCM",
+    ],
+    featured: true,
+    role: "Senior React Native & iOS Developer",
+    iconName: "Sparkles",
+    gradient: "linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%)",
+    logoUrl: "/apps/vyra.png",
+    appStoreUrl:
+      "https://apps.apple.com/us/app/vyra-ai-photo-art-generator/id6756605297",
+    previewHighlight: {
+      tag: "Generative AI",
+      metric: "AI Photo & Art Generator",
+      detail: "Swift • Superwall • Amplitude • FCM",
+    },
+    keyPoints: [
+      "🎨 AI Creative Art & Portrait Synthesis",
+      "⚡ Superwall Subscription Paywalls",
+      "📸 Native Camera & Gallery Processing",
+      "📊 Amplitude Funnel & Crashlytics Monitoring",
+    ],
+    aboutProject:
+      "Developed an AI-powered photo and art generation mobile application transforming user portraits into high-fidelity artistic renders using neural AI APIs, camera modules, and Superwall monetization.",
+    keyFeatures: [
+      "Neural Image Transformations: High-resolution AI stylization and portrait filters.",
+      "Superwall Monetization: In-app purchase paywalls with conversion funnel tracking.",
+      "Crashlytics & Amplitude: Real-time telemetry monitoring platform stability.",
+      "Apple App Store Releases: Regularly maintained, optimized, and published updates to the Apple App Store.",
     ],
   },
   {
